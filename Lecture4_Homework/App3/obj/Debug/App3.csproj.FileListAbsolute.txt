@@ -1,0 +1,9 @@
+D:\visual studio 2015\C#_Applications_Forms\App3\App3\bin\Debug\App3.exe.config
+D:\visual studio 2015\C#_Applications_Forms\App3\App3\bin\Debug\App3.exe
+D:\visual studio 2015\C#_Applications_Forms\App3\App3\bin\Debug\App3.pdb
+D:\visual studio 2015\C#_Applications_Forms\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\C#_Applications_Forms\App3\App3\obj\Debug\App3.Form1.resources
+D:\visual studio 2015\C#_Applications_Forms\App3\App3\obj\Debug\App3.Properties.Resources.resources
+D:\visual studio 2015\C#_Applications_Forms\App3\App3\obj\Debug\App3.csproj.GenerateResource.Cache
+D:\visual studio 2015\C#_Applications_Forms\App3\App3\obj\Debug\App3.exe
+D:\visual studio 2015\C#_Applications_Forms\App3\App3\obj\Debug\App3.pdb
